@@ -1,0 +1,7 @@
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\bin\Debug\ejercicio 1 clase 4 progra.exe.config
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\bin\Debug\ejercicio 1 clase 4 progra.exe
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\bin\Debug\ejercicio 1 clase 4 progra.pdb
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\obj\Debug\ejercicio 1 clase 4 progra.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\obj\Debug\ejercicio 1 clase 4 progra.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\obj\Debug\ejercicio 1 clase 4 progra.exe
+C:\Users\USUARIO\Documents\ejercicios de clase progra\ejercicio 1 clase 4 progra\ejercicio 1 clase 4 progra\obj\Debug\ejercicio 1 clase 4 progra.pdb
